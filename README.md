@@ -1,0 +1,1 @@
+# genshin-impact-auto-dialogue-plus
